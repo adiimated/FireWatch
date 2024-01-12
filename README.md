@@ -1,5 +1,6 @@
-# Fire Detection
+# FireWatch
 
+### This was made for UB Hacking 2023
 
 ## Features
 
@@ -59,4 +60,6 @@ Despite these challenges, our dedication to creating a system that could make a 
 
 
 ![ubhacking](https://github.com/UBH-Fall2023/ubh-fall2023-adiimated/assets/56118819/c841c036-0c3c-46ab-b6c8-820b9ecc5ab9)
+
+
 
