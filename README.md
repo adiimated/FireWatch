@@ -1,6 +1,6 @@
 # FireWatch
 
-#### This was made for UB Hacking 2023
+FireWatch is a groundbreaking fire detection tool developed during UB Hacking 2023. Leveraging the power of YOLOv5 and advanced computer vision, FireWatch is designed to identify signs of fire in video feeds more efficiently than traditional methods. This tool is crucial for early fire detection, offering a significant advancement in safety and emergency response measures.
 
 ## Features
 
