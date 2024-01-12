@@ -33,9 +33,9 @@ Our project is built on a foundation of cutting-edge technologies:
 
 Front End
 
-![f1](https://github.com/UBH-Fall2023/ubh-fall2023-adiimated/assets/56118819/60bd7630-09cb-4255-aec4-96a0c862f50b)
+![f1](https://github.com/adiimated/FireWatch/blob/main/media/f1.jpeg)
 
-![f2](https://github.com/UBH-Fall2023/ubh-fall2023-adiimated/assets/56118819/5d423168-ebb5-4a19-8cb1-f54074e1de19)
+![f2](https://github.com/adiimated/FireWatch/blob/main/media/f2.jpeg)
 
 
 ## Client-Side Requirements
